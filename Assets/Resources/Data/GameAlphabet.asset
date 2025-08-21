@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd937ef9e85f6cf45aa7e1c4bf3964df, type: 3}
+  m_Name: GameAlphabet
+  m_EditorClassIdentifier: 
+  AlphabetPlain:
+  - letter: A
+    image: {fileID: -8680797543115379092, guid: 8b7511fc8b1683b4db873a8a739d72c3, type: 3}
+  AlphabetNormal:
+  - letter: A
+    image: {fileID: -8680797543115379092, guid: c9ea2a7142069f64c99eb6065bc2eca8, type: 3}
+  AlphabetHighlighted:
+  - letter: A
+    image: {fileID: -8680797543115379092, guid: 08d024cf13913db4db4f31426d2658a9, type: 3}
+  AlphabetWrong:
+  - letter: A
+    image: {fileID: -8680797543115379092, guid: d20fed766971d2346b2cbfc03a3db3bd, type: 3}
